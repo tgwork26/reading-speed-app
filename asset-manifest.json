@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tgwork26/reading-speed-app.git/static/css/main.e6c13ad2.css",
-    "main.js": "/tgwork26/reading-speed-app.git/static/js/main.59edcd3b.js",
-    "static/js/453.d1fbbf5f.chunk.js": "/tgwork26/reading-speed-app.git/static/js/453.d1fbbf5f.chunk.js",
-    "index.html": "/tgwork26/reading-speed-app.git/index.html",
-    "main.e6c13ad2.css.map": "/tgwork26/reading-speed-app.git/static/css/main.e6c13ad2.css.map",
-    "main.59edcd3b.js.map": "/tgwork26/reading-speed-app.git/static/js/main.59edcd3b.js.map",
-    "453.d1fbbf5f.chunk.js.map": "/tgwork26/reading-speed-app.git/static/js/453.d1fbbf5f.chunk.js.map"
+    "main.css": "/reading-speed-app/static/css/main.e6c13ad2.css",
+    "main.js": "/reading-speed-app/static/js/main.e6f1356c.js",
+    "static/js/453.d1fbbf5f.chunk.js": "/reading-speed-app/static/js/453.d1fbbf5f.chunk.js",
+    "index.html": "/reading-speed-app/index.html",
+    "main.e6c13ad2.css.map": "/reading-speed-app/static/css/main.e6c13ad2.css.map",
+    "main.e6f1356c.js.map": "/reading-speed-app/static/js/main.e6f1356c.js.map",
+    "453.d1fbbf5f.chunk.js.map": "/reading-speed-app/static/js/453.d1fbbf5f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.59edcd3b.js"
+    "static/js/main.e6f1356c.js"
   ]
 }
